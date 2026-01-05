@@ -12,6 +12,11 @@ Now i made working PCB. Before i had 40 errors and now i have 0 :)
 # Pictures
 
 Pictures are in pics/ folder.
+![alt text](https://github.com/JanBukalski/DzonBoard_RP2040/blob/main/pics/schema.png?raw=true)
+
+![alt text](https://github.com/JanBukalski/DzonBoard_RP2040/blob/main/pics/3D_Model.png?raw=true)
+
+![alt text](https://github.com/JanBukalski/DzonBoard_RP2040/blob/main/pics/wiring_diagram.png?raw=true)
 
 # BOM
 
