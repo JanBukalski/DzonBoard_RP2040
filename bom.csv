@@ -1,18 +1,18 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"R6";"R_0402_1005Metric";1;"10K";;;
-2;"SW1";"SW_Push_SPST_NO_Alps_SKRK";1;"SW_Push";;;
-3;"C1,C10";"C_0402_1005Metric";2;"1uF";;;
-4;"C5,C17,C8,C12,C6,C9,C11,C2,C7,C4,C3";"C_0402_1005Metric";11;"0.1uF";;;
-5;"U3";"Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm";1;"W25Q16JVZPIQ TR";;;
-6;"C13,C14";"C_0402_1005Metric";2;"10uF";;;
-7;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"12 MHz";;;
-8;"U1";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
-9;"R2,R1";"R_0402_1005Metric";2;"5.1K";;;
-10;"U2";"SOT-23";1;"MCP1700x-330xxTT";;;
-11;"R5,R7";"R_0402_1005Metric";2;"1K";;;
-12;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"USB_C_Receptacle_USB2.0_14P";;;
-13;"D1";"LED_0805_2012Metric";1;"LED";;;
-14;"R4,R3";"R_0402_1005Metric";2;"27";;;
-15;"C15,C16";"C_0402_1005Metric";2;"33pF";;;
-16;"J4";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
-17;"J3,J2";"PinHeader_1x20_P2.54mm_Vertical";2;"Conn_01x20";;;
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10",0402,2,1uF,
+"C11, C12, C17, C2, C3, C4, C5, C6, C7, C8, C9",0402,11,0.1uF,
+"C13, C14",0402,2,10uF,
+"C15, C16",0402,2,33pF,
+D1,0805,1,LED,
+J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0_14P,
+"J2, J3",PinHeader_1x20_P2.54mm_Vertical,2,Conn_01x20,
+J4,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+"R1, R2",0402,2,5.1K,
+"R3, R4",0402,2,27,
+"R5, R7",0402,2,1K,
+R6,0402,1,10K,
+SW1,SW_Push_SPST_NO_Alps_SKRK,1,SW_Push,
+U1,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040,
+U2,SOT-23,1,MCP1700x-330xxTT,
+U3,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,1,W25Q16JVZPIQ TR,
+Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,12 MHz,
